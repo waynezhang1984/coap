@@ -1,0 +1,7 @@
+{
+	"kafka": "192.168.101.189:9092",
+	"reqtopic": "topic_access_process",
+	"rsptopic": "coap_v100_topic_access_process",
+	"eureka": "192.168.101.189:9000",
+	"redis": "192.168.101.189:6379"
+}

@@ -1,0 +1,32 @@
+{
+	
+	"method": "Login",
+	"taskid": "123",
+	"devid": "1234",
+	"data":[
+				{
+
+					"type": "DOOR",
+					"id": "1234",
+					"name": "4321",
+					"desc": "xyz",
+					"children":[{}]
+
+				},
+				{
+					"type": "SMOKE",
+					"id": "1234",
+					"name": "4321",
+					"desc": "xyz",
+					"children":[{}]
+				},
+				{
+					"type": "WATER",
+					"id": "1234",
+					"name": "4321",
+					"desc": "xyz",
+					"children":[{}]
+				}
+
+			]
+}
