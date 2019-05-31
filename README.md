@@ -118,8 +118,3 @@ MQTT不支持带有类型或者其它帮助Clients理解的标签消息，CoAP�
 
 EMQ与CoAP
 EMQ的开源版提供了一个Generic CoAP的实现，读者如果有兴趣的话可以试用一下。在EMQ的商业版中，包含了对CoAP的完整支持。
-
-作者：EMQ
-链接：https://www.jianshu.com/p/7fec0916a0d3
-来源：简书
-简书著作权归作者所有，任何形式的转载都请联系作者获得授权并注明出处。
